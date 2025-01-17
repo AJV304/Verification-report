@@ -3,6 +3,6 @@ This folder contains content concerning the verification report by Vijlbrief & Z
 In this folder the following documents can be found:
 - The original paper by Adamcyzk et al. (2024)		(.pdf)
 - The annotated paper by Vijlbrief & Zweistra		(.pdf)
-- The original dataset provided by Adamcyzk et al. at 	(.sav)
+- The original dataset provided by Adamcyzk et al. at 	(dataset.sav)
 - A report and script for the verification process 	(.qmd)
 - A poster summarizing the verification process 		(.pptx)
