@@ -3,5 +3,5 @@ This repository contains content concerning the verification project by Vijlbrie
 The following documents were used:
 - The original paper by Adamczyk et al. (2024)		      ([.pdf](https://spb.psychopen.eu/index.php/spb/article/view/14457))
 - The original dataset provided by Adamczyk et al. at 	([.sav](https://osf.io/2nf7x))
-- A report and script for the verification process     	([.qmd](https://github.com/AJV304/Verification-report/blob/174c2ddaf4a57e00483422b7b110a09da7de08f6/Rscript.qmd))
-- A poster summarizing the verification process 		    (.pptx)
+- A report and script for the verification process     	([.qmd](https://github.com/AJV304/Verification-report/blob/main/Rscript.qmd))
+- A poster summarizing the verification process 		    ([.pptx](https://github.com/AJV304/Verification-report/blob/main/poster.pdf))
